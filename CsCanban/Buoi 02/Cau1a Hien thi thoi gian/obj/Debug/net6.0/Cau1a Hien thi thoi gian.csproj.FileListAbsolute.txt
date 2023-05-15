@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 02\Cau1a Hien thi thoi gian\bin\Debug\net6.0\Cau1a Hien thi thoi gian.exe
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 02\Cau1a Hien thi thoi gian\bin\Debug\net6.0\Cau1a Hien thi thoi gian.deps.json
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 02\Cau1a Hien thi thoi gian\bin\Debug\net6.0\Cau1a Hien thi thoi gian.runtimeconfig.json
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 02\Cau1a Hien thi thoi gian\bin\Debug\net6.0\Cau1a Hien thi thoi gian.dll
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 02\Cau1a Hien thi thoi gian\bin\Debug\net6.0\Cau1a Hien thi thoi gian.pdb
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 02\Cau1a Hien thi thoi gian\obj\Debug\net6.0\Cau1a Hien thi thoi gian.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 02\Cau1a Hien thi thoi gian\obj\Debug\net6.0\Cau1a Hien thi thoi gian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 02\Cau1a Hien thi thoi gian\obj\Debug\net6.0\Cau1a Hien thi thoi gian.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 02\Cau1a Hien thi thoi gian\obj\Debug\net6.0\Cau1a Hien thi thoi gian.AssemblyInfo.cs
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 02\Cau1a Hien thi thoi gian\obj\Debug\net6.0\Cau1a Hien thi thoi gian.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 02\Cau1a Hien thi thoi gian\obj\Debug\net6.0\Cau1a Hien thi thoi gian.dll
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 02\Cau1a Hien thi thoi gian\obj\Debug\net6.0\refint\Cau1a Hien thi thoi gian.dll
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 02\Cau1a Hien thi thoi gian\obj\Debug\net6.0\Cau1a Hien thi thoi gian.pdb
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 02\Cau1a Hien thi thoi gian\obj\Debug\net6.0\Cau1a Hien thi thoi gian.genruntimeconfig.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 02\Cau1a Hien thi thoi gian\obj\Debug\net6.0\ref\Cau1a Hien thi thoi gian.dll
