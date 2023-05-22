@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 05\Tinh tong cac phan tu\obj\Debug\Tinh tong cac phan tu.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 05\Tinh tong cac phan tu\obj\Debug\Tinh tong cac phan tu.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 05\Tinh tong cac phan tu\obj\Debug\Tinh tong cac phan tu.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 05\Tinh tong cac phan tu\bin\Debug\Tinh tong cac phan tu.exe.config
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 05\Tinh tong cac phan tu\bin\Debug\Tinh tong cac phan tu.exe
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 05\Tinh tong cac phan tu\bin\Debug\Tinh tong cac phan tu.pdb
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 05\Tinh tong cac phan tu\obj\Debug\Tinh tong cac phan tu.exe
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 05\Tinh tong cac phan tu\obj\Debug\Tinh tong cac phan tu.pdb
