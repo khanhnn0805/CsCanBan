@@ -7,8 +7,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            //XuatNgayGioHeThong();
-            //XuatHoVaTen();
+            XuatNgayGioHeThong();
+            XuatHoVaTen();
         }
 
         private static void XuatHoVaTen()

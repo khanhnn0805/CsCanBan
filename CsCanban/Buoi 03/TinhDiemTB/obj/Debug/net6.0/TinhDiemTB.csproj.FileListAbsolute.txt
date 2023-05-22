@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 03\TinhDiemTB\obj\Debug\net6.0\TinhDiemTB.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 03\TinhDiemTB\obj\Debug\net6.0\TinhDiemTB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 03\TinhDiemTB\obj\Debug\net6.0\TinhDiemTB.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 03\TinhDiemTB\obj\Debug\net6.0\TinhDiemTB.AssemblyInfo.cs
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 03\TinhDiemTB\obj\Debug\net6.0\TinhDiemTB.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 03\TinhDiemTB\bin\Debug\net6.0\TinhDiemTB.exe
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 03\TinhDiemTB\bin\Debug\net6.0\TinhDiemTB.deps.json
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 03\TinhDiemTB\bin\Debug\net6.0\TinhDiemTB.runtimeconfig.json
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 03\TinhDiemTB\bin\Debug\net6.0\TinhDiemTB.dll
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 03\TinhDiemTB\bin\Debug\net6.0\TinhDiemTB.pdb
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 03\TinhDiemTB\obj\Debug\net6.0\TinhDiemTB.dll
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 03\TinhDiemTB\obj\Debug\net6.0\refint\TinhDiemTB.dll
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 03\TinhDiemTB\obj\Debug\net6.0\TinhDiemTB.pdb
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 03\TinhDiemTB\obj\Debug\net6.0\TinhDiemTB.genruntimeconfig.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 03\TinhDiemTB\obj\Debug\net6.0\ref\TinhDiemTB.dll

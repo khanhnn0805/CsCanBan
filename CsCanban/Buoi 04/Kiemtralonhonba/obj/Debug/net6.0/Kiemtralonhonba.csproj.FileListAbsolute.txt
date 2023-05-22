@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 04\Kiemtralonhonba\bin\Debug\net6.0\Kiemtralonhonba.exe
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 04\Kiemtralonhonba\bin\Debug\net6.0\Kiemtralonhonba.deps.json
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 04\Kiemtralonhonba\bin\Debug\net6.0\Kiemtralonhonba.runtimeconfig.json
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 04\Kiemtralonhonba\bin\Debug\net6.0\Kiemtralonhonba.dll
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 04\Kiemtralonhonba\bin\Debug\net6.0\Kiemtralonhonba.pdb
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 04\Kiemtralonhonba\obj\Debug\net6.0\Kiemtralonhonba.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 04\Kiemtralonhonba\obj\Debug\net6.0\Kiemtralonhonba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 04\Kiemtralonhonba\obj\Debug\net6.0\Kiemtralonhonba.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 04\Kiemtralonhonba\obj\Debug\net6.0\Kiemtralonhonba.AssemblyInfo.cs
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 04\Kiemtralonhonba\obj\Debug\net6.0\Kiemtralonhonba.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 04\Kiemtralonhonba\obj\Debug\net6.0\Kiemtralonhonba.dll
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 04\Kiemtralonhonba\obj\Debug\net6.0\refint\Kiemtralonhonba.dll
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 04\Kiemtralonhonba\obj\Debug\net6.0\Kiemtralonhonba.pdb
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 04\Kiemtralonhonba\obj\Debug\net6.0\Kiemtralonhonba.genruntimeconfig.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 04\Kiemtralonhonba\obj\Debug\net6.0\ref\Kiemtralonhonba.dll

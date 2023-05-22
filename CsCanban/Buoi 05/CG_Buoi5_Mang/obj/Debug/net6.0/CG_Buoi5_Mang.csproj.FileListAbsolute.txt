@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 05\CG_Buoi5_Mang\obj\Debug\net6.0\CG_Buoi5_Mang.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 05\CG_Buoi5_Mang\obj\Debug\net6.0\CG_Buoi5_Mang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 05\CG_Buoi5_Mang\obj\Debug\net6.0\CG_Buoi5_Mang.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 05\CG_Buoi5_Mang\obj\Debug\net6.0\CG_Buoi5_Mang.AssemblyInfo.cs
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 05\CG_Buoi5_Mang\obj\Debug\net6.0\CG_Buoi5_Mang.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 05\CG_Buoi5_Mang\bin\Debug\net6.0\CG_Buoi5_Mang.exe
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 05\CG_Buoi5_Mang\bin\Debug\net6.0\CG_Buoi5_Mang.deps.json
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 05\CG_Buoi5_Mang\bin\Debug\net6.0\CG_Buoi5_Mang.runtimeconfig.json
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 05\CG_Buoi5_Mang\bin\Debug\net6.0\CG_Buoi5_Mang.dll
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 05\CG_Buoi5_Mang\bin\Debug\net6.0\CG_Buoi5_Mang.pdb
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 05\CG_Buoi5_Mang\obj\Debug\net6.0\CG_Buoi5_Mang.dll
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 05\CG_Buoi5_Mang\obj\Debug\net6.0\refint\CG_Buoi5_Mang.dll
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 05\CG_Buoi5_Mang\obj\Debug\net6.0\CG_Buoi5_Mang.pdb
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 05\CG_Buoi5_Mang\obj\Debug\net6.0\CG_Buoi5_Mang.genruntimeconfig.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 05\CG_Buoi5_Mang\obj\Debug\net6.0\ref\CG_Buoi5_Mang.dll

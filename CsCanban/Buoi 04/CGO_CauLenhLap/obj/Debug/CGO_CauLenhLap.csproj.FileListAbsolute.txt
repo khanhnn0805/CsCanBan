@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 04\CGO_CauLenhLap\obj\Debug\CGO_CauLenhLap.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 04\CGO_CauLenhLap\obj\Debug\CGO_CauLenhLap.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 04\CGO_CauLenhLap\obj\Debug\CGO_CauLenhLap.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 04\CGO_CauLenhLap\bin\Debug\CGO_CauLenhLap.exe.config
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 04\CGO_CauLenhLap\bin\Debug\CGO_CauLenhLap.exe
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 04\CGO_CauLenhLap\bin\Debug\CGO_CauLenhLap.pdb
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 04\CGO_CauLenhLap\obj\Debug\CGO_CauLenhLap.exe
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 04\CGO_CauLenhLap\obj\Debug\CGO_CauLenhLap.pdb
