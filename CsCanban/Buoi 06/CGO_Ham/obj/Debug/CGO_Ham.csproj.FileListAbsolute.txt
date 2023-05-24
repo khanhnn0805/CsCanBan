@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 06\CGO_Ham\bin\Debug\CGO_Ham.exe.config
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 06\CGO_Ham\bin\Debug\CGO_Ham.exe
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 06\CGO_Ham\bin\Debug\CGO_Ham.pdb
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 06\CGO_Ham\obj\Debug\CGO_Ham.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 06\CGO_Ham\obj\Debug\CGO_Ham.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 06\CGO_Ham\obj\Debug\CGO_Ham.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 06\CGO_Ham\obj\Debug\CGO_Ham.exe
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 06\CGO_Ham\obj\Debug\CGO_Ham.pdb

@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 06\BMI_Calculator\bin\Debug\BMI_Calculator.exe.config
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 06\BMI_Calculator\bin\Debug\BMI_Calculator.exe
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 06\BMI_Calculator\bin\Debug\BMI_Calculator.pdb
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 06\BMI_Calculator\obj\Debug\BMI_Calculator.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 06\BMI_Calculator\obj\Debug\BMI_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 06\BMI_Calculator\obj\Debug\BMI_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 06\BMI_Calculator\obj\Debug\BMI_Calculator.exe
+C:\Users\admin\source\repos\khanhnn0805\CsCanBan\CsCanban\Buoi 06\BMI_Calculator\obj\Debug\BMI_Calculator.pdb
